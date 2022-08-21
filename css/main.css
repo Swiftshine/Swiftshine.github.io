@@ -7,6 +7,12 @@ h1 {
 }
 
 .bigText {
+    font-family: MarioFont;
     font-size: large;
     color: black;
+}
+
+@font-face {
+    font-family: MarioFont;
+    src: url(/fonts/MarioFont.otf);
 }
