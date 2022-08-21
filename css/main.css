@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(119, 194, 255);
+}
+
+h1 {
+    color: black;
+}
+
+.bigText {
+    font-size: large;
+    color: black;
+}
