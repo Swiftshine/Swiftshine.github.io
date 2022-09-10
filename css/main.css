@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(119, 194, 255);
+    background-color: rgb(9, 15, 128);
 }
 
 h1 {
@@ -14,26 +14,6 @@ h1 {
   font-size: 30px;
 }
 
-.marioText {
-    font-family: MarioFont;
-    font-size: large;
-    color: black;
-    align-self: center;
-}
 
-@font-face {
-    font-family: MarioFont;
-    src: url(/fonts/MarioFont.otf);
-}
 
-/*  Interactive Elements  */
-.button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
+
