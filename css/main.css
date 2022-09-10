@@ -6,6 +6,14 @@ h1 {
     color: black;
 }
 
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
 .marioText {
     font-family: MarioFont;
     font-size: large;
@@ -17,3 +25,5 @@ h1 {
     font-family: MarioFont;
     src: url(/fonts/MarioFont.otf);
 }
+
+
