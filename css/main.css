@@ -11,9 +11,9 @@ h1 {
 .header {
   padding: 60px;
   text-align: center;
-  background: #000000;
-  color: white;
-  font-size: 30px;
+  /* background: #000000;
+  color: white; */
+  /* font-size: 30px; */
 }
 
 /* Background Checkerboard Pattern */
