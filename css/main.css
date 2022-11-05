@@ -21,6 +21,5 @@ h1 {
   width: 100px;
   height: 200px;
   text-align: center;
-  font-family: MarioFont;
-  src: url(/files/fonts/MarioFont.otf);
+  font-family: "MarioFont";
 }
